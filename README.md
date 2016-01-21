@@ -1,4 +1,4 @@
-# VHDL support for VSCode
+# VHDL support for VSCode [![Build Status](https://travis-ci.org/mshr-h/vscode-vhdl-support.svg?branch=master)](https://travis-ci.org/mshr-h/vscode-vhdl-support)
 VHDL support based on [https://github.com/yangsu/sublime-vhdl](https://github.com/yangsu/sublime-vhdl) SumblieText package.
 
 ## Features
