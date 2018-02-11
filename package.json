@@ -1,5 +1,6 @@
 {
 	"name": "vhdl",
+	"displayName": "VHDL",
 	"description": "VHDL support for VS Code",
 	"version": "0.0.2",
 	"publisher": "mshr-h",
